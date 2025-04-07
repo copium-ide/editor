@@ -1,1 +1,1 @@
-editor interface. may break at any time https://copium-ide.github.io/blocks/
+editor interface. may break at any time https://copium-ide.github.io/editor/
